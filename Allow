@@ -15,37 +15,27 @@ ad.doubleclick.net
 
 # Microsoft Quick Assist
 aria.microsoft.com
-*.aria.microsoft.com
 cc.skype.com
-*.cc.skype.com
 events.data.microsoft.com
-*.events.data.microsoft.com
 flightproxy.skype.com
-*.flightproxy.skype.com
 live.com
-*.live.com
 monitor.azure.com
-*.monitor.azure.com
 registrar.skype.com
-*.registrar.skype.com
 support.services.microsoft.com
-*.support.services.microsoft.com
 trouter.skype.com
-*.trouter.skype.com
 aadcdn.msauth.net
 edge.skype.com
 login.microsoftonline.com
 remoteassistanceprodacs.communication.azure.com
+turn.azure.com.communication.azure.com
 turn.azure.com
 
 # Microsoft Edge WebView2 / auth
 msedge.api.cdp.microsoft.com
 config.edge.skype.com
 dl.delivery.mp.microsoft.com
-*.dl.delivery.mp.microsoft.com
 login.live.com
 login.microsoft.com
 login.windows.net
 logincdn.msauth.net
 edge.microsoft.com
-*.edge.microsoft.com
