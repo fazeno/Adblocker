@@ -50,3 +50,59 @@ us.lgtvsdp.com
 lgappstv.com
 aic.service.lge.com
 lgtvsdp.com
+
+# LG Ads
+ad.lgappstv.com
+ad.lgsmartad.com
+*.ad.lgsmartad.com
+*.info.lgsmartad.com
+*.lgsmartad.com
+lgad.cjpowercast.com
+
+# LG Recommendations / Home screen
+recommend.lgtvcommon.com
+AIC.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+
+# LG Tracking / Analytics
+analytics.lgappstv.com
+analytics.lgtvcommon.com
+logs.lgtvcommon.com
+lgtvcommon.com
+*.lgtvcommon.com
+
+# LG Smart TV platform
+lgtvsdp.com
+*.lgtvsdp.com
+lgtvdp.com
+*.lgtvdp.com
+lgappstv.com
+*.lgappstv.com
+
+# LG Account / Marketing
+lgsmartplatform.com
+*.lgsmartplatform.com
+lgsmartad.com
+*.lgsmartad.com
+
+# LG Content discovery
+ibs.lgappstv.com
+*.ibs.lgappstv.com
+lgrecommends.lgappstv.com
+*.lgrecommends.lgappstv.com
+
+# LG Telemetry
+aic-ngfts.lge.com
+aic.lge.com
+ngfts.lge.com
+
+# Third party recommendation providers
+api.thetake.com
+app-lgwebos.pluto.tv
+applications.castoola.tv
+atv-client-api.castoola.tv
