@@ -2,16 +2,6 @@
 #Made by R. Nieuwland#
 ######################
 
-splashtop.eu
-splashtop.com
-data.communicatie.nn.nl
-ad.mychannels.video
-browser-intake-datadoghq.com
-nextdns.io
-quad9.net
-dev.visualwebsiteoptimizer.com
-dhl.de
-
 # Microsoft Quick Assist
 aria.microsoft.com
 cc.skype.com
@@ -38,4 +28,15 @@ login.microsoft.com
 login.windows.net
 logincdn.msauth.net
 edge.microsoft.com
+
+# Own
 static-proxy.strpst.com
+splashtop.eu
+splashtop.com
+data.communicatie.nn.nl
+ad.mychannels.video
+browser-intake-datadoghq.com
+nextdns.io
+quad9.net
+dev.visualwebsiteoptimizer.com
+dhl.de
